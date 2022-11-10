@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Eyvaz
-- 👀 I’m interested in mobile development 
+- 👋 My name is Eyvaz 
+- 👀 I’m interested in android/ios and desktop/web development using flutter
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- eyvaz.bayramov2018@gmail.com
