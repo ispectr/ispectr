@@ -1,6 +1,6 @@
 - 👋 My name is Eyvaz 
-- 👀 I’m interested in android/ios and desktop/web development using flutter
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Android/Ios and Desktop/Web development using flutter.
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- eyvaz.bayramov2018@gmail.com
 
